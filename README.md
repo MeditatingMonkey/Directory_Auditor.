@@ -13,3 +13,11 @@ Features:
 8) Shows the permission (Read/Write , Read Only) of a user.
 9) Sends the Excel file to the email directly.
 10) We can add cc recipient to the script.
+11) Checks if the address is valid, if not it can create a table in the Email.
+
+Screenshot attached below.
+
+![Screenshot (4)](https://github.com/MeditatingMonkey/Directory_Auditor./assets/68747956/75174129-1ecc-430e-b990-271109959462)
+![Screenshot (5)](https://github.com/MeditatingMonkey/Directory_Auditor./assets/68747956/8e2e2b1c-5a68-4076-89f2-43b409511b90)
+
+
